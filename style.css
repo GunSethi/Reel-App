@@ -40,7 +40,7 @@ body{font-family: pl, sans-serif; font-weight: 100; margin: 0;}
  .col-11{ flex: 1 0 91.66%; padding: 0 15px; max-width: 91.66%;}
  .col-12{ flex: 1 0 100%  ; padding: 0 15px; max-width: 100%;  }
 
- body{background: url(/img/Background.png)no-repeat center top/cover;}
+ body{background: url(Background.png)no-repeat center top/cover;}
  
 /*.wrap-1{background:url(/img/bg\ 1.png) no-repeat center top/cover; color: #fff;}*/
 .wrap-1{color: #fff;}
